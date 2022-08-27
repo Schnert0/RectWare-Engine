@@ -1,0 +1,9 @@
+# Folders
+assets/
+
+# Files
+RectWare
+.DS_Store
+
+# Extensions
+*.o
